@@ -1,1 +1,3 @@
 # SpringInventoryManagementSystem
+
+Admin login+CRUD
