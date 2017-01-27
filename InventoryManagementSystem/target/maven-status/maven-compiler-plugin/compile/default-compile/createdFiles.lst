@@ -1,0 +1,8 @@
+com\leapfrog\inventorymanagementsystem\dao\impl\ProductDAOImpl.class
+com\leapfrog\inventorymanagementsystem\controller\LoginController.class
+com\leapfrog\inventorymanagementsystem\controller\DefaultController.class
+com\leapfrog\inventorymanagementsystem\dao\impl\ProductDAOImpl$1.class
+com\leapfrog\inventorymanagementsystem\controller\admin\DashboardController.class
+com\leapfrog\inventorymanagementsystem\dao\impl\ProductDAOImpl$2.class
+com\leapfrog\inventorymanagementsystem\dao\ProductDAO.class
+com\leapfrog\inventorymanagementsystem\entity\Product.class
